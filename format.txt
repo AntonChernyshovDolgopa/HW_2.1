@@ -1,0 +1,11 @@
+cook_book = {
+'€ичница': [
+  {'ingridient_name': '€йца ', 'quantity': 2, 'measure': ' шт.'}
+  {'ingridient_name': 'помидор ', 'quantity': 100, 'measure': ' гр.'}
+]],
+'стейк': [
+  {'ingridient_name': 'гов€дина ', 'quantity': 300, 'measure': ' гр.'}
+  {'ingridient_name': 'специи ', 'quantity': 5, 'measure': ' гр.'}
+  {'ingridient_name': 'масло ', 'quantity': 100, 'measure': ' мл.'}
+]]
+}
